@@ -1,0 +1,28 @@
+.one{
+    width: 100%;
+    height: 5px;
+    background-color: rgb(250, 77, 77);
+}
+.header {
+    width: 100%;
+    background-color: rgb(231, 142, 142);
+    padding: 5px;
+}
+
+.topo {
+    text-align: right;
+}
+
+.topo ul, li {
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.Base {
+    font-size: larger;
+    font-style: initial;
+}
+
+.teste {
+    font-size: large;
+}
